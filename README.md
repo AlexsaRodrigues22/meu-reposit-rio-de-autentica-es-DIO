@@ -2,11 +2,5 @@
 
 Repositório de testes de autenticações
 
-1. Autenticação via usuário de senha;
 
-2. Autenticação via Token de acesso pessoal; 
-
-3. Atualização do repositório
-
-4. Nova atualização
 
