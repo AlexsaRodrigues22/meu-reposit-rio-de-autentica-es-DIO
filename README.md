@@ -6,4 +6,7 @@ Repositório de testes de autenticações
 
 2. Autenticação via Token de acesso pessoal; 
 
-3. 
+3. Atualização do repositório
+
+4. Nova atualização
+
